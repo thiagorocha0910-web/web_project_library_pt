@@ -231,7 +231,6 @@
   flex-basis: 780px;
   max-width: 780px;
   position: relative;
-  padding: 25px;
 }
 
 .events__image {
@@ -247,8 +246,8 @@
 }
 
 .person_name_feynman {
-  top: 30px;
-  left: 319px;
+  top: -30px;
+  right: 319px;
 }
 
 .person_name_burbidge {
