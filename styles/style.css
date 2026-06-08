@@ -246,8 +246,9 @@
 }
 
 .person_name_feynman {
-  top: 319px;
-  right: -30px;
+  top: -30px;
+  right: 319px;
+  line-height: 30px;
 }
 
 .person_name_burbidge {
