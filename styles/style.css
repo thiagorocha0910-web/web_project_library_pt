@@ -13,7 +13,7 @@
   height: 100vh;
   min-height: 720px;
   max-height: 800px;
-  padding: 30px 20px;
+  padding: 30px 80px 40px;
   position: relative;
   box-sizing: border-box;
 }
@@ -22,12 +22,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px 80px;
 }
 
 .nav__logo {
-  height: 58px;
-  width: 80px;
+  width: 58px;
+  height: 80px;
 }
 
 .nav__links {
@@ -344,10 +343,7 @@
   line-height: 20px;
   display: flex;
   flex-direction: column;
-  padding-top: 60px;
-  padding-right: 80px;
-  padding-left: 80px;
-  padding-bottom: 60px;
+  padding: 60px 80px;
 }
 
 .footer__columns {
@@ -407,5 +403,5 @@
 .footer__copyright {
   color: white;
   font-size: 16px;
-  padding-top: 100px;
+  margin-top: 100px;
 }
